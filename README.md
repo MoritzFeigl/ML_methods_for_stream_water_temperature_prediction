@@ -11,7 +11,7 @@ The code in this repository was used to produce all results, tables and figures 
 
 ### Content of the repository
 
-- `wateRtemp` The version of the wateRtemp package that was used in this study. For a current version refer to [https://github.com/MoritzFeigl/wateRtemp]
+- `wateRtemp` The version of the wateRtemp package that was used in this study. For a current version refer to https://github.com/MoritzFeigl/wateRtemp
 - `01_model_runs` The scripts used to produce the results of the publication.
 - `02_plot_and_table_scripts` The scripts used to produce all figures and tables of the publication
 
