@@ -6,7 +6,7 @@
 
 Accompanying code for the publication "Machine learning methods for stream water temperature prediction"
 
-The code in this repository was used to produce all results and figures in our manuscript. 
+The code in this repository was used to produce all results, tables and figures in the manuscript. The code is specifically written to be used on the Vienna Scientific Cluster and thus only directly usable with a Linux Cluster using SLUrM.
 
 ### Content of the repository
 
