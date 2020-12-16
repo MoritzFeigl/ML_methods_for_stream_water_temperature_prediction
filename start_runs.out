@@ -1,0 +1,13 @@
+  Unloading intel/18
+  Unloading intel-mkl/2018
+  Unloading pcre2/10.35
+  Unloading R/4.0.2
+  Unloading gcc/7.3
+  Loading intel/18 from: /cm/shared/apps/intel/compilers_and_libraries_2018.5.274/linux
+  Loading intel-mkl/2018 from: /cm/shared/apps/intel/compilers_and_libraries_2018.5.274/linux/mkl
+  Loading pcre2/10.35 from: /opt/sw/x86_64/glibc-2.17/ivybridge-ep/pcre2/10.35/intel/18
+  Loading R/4.0.2 from: /opt/sw/x86_64/glibc-2.17/ivybridge-ep/R/4.0.2/intel/18/intel-mkl/2018/pcre2/10.35
+  Loading gcc/7.3 from: /opt/sw/x86_64/glibc-2.17/ivybridge-ep/gcc/7.3.0/
+Submitted batch job 8940033
+Submitted batch job 8940034
+Submitted batch job 8940045
