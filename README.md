@@ -3,7 +3,7 @@ ML_methods_for_stream_water_temperature_prediction
 # Machine learning methods for stream water temperature prediction
 
 <p align="center">
-  <img width="460" src="https://github.com/MoritzFeigl/ML_methods_for_stream_water_temperature_prediction/blob/main/readme_figure.png">
+  <img width="700" src="https://github.com/MoritzFeigl/ML_methods_for_stream_water_temperature_prediction/blob/main/readme_figure.png">
 </p>
 
 Accompanying code for the publication "Machine learning methods for stream water temperature prediction"
