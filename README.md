@@ -1,4 +1,4 @@
-[DOI](https://zenodo.org/badge/321986160.svg)](https://zenodo.org/badge/latestdoi/321986160)
+[[DOI](https://zenodo.org/badge/321986160.svg)](https://zenodo.org/badge/latestdoi/321986160)
 # Machine learning methods for stream water temperature prediction
 
 <p align="center">
