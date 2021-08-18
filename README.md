@@ -5,7 +5,7 @@
   <img width="700" src="https://github.com/MoritzFeigl/ML_methods_for_stream_water_temperature_prediction/blob/main/readme_figure.png">
 </p>
 
-Accompanying code for the publication "Machine learning methods for stream water temperature prediction"
+Accompanying code for the publication "Machine learning methods for stream water temperature prediction" (https://doi.org/10.5194/hess-25-2951-2021)
 
 The code in this repository was used to produce all results, tables and figures in the manuscript. The code is specifically written to be used on the Vienna Scientific Cluster (VSC) and thus only directly usable with a Linux Cluster using SLURM. 
 
